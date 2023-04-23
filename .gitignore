@@ -1,0 +1,13 @@
+auto-save-list
+eln-cache
+elpa
+transient
+url
+history
+recentf
+bookmarks
+.DS_Store
+.cache/
+package-quickstart.el
+package-quickstart.elc
+FsAutoComplete/*
