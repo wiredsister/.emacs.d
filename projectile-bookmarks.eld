@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/Repositories/voting/" "~/Repositories/test/" "~/Repositories/kafka-console/" "/opt/homebrew/" "~/Repositories/scratch/")
